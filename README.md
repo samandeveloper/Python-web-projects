@@ -1,1 +1,1 @@
-# python-projects
+# 35 projects are uploaded in Python folder
